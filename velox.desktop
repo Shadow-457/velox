@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Velox File Manager
+Comment=Fast and lightweight file manager
+Exec=/home/fuckarch/.local/bin/velox %u
+Terminal=false
+Type=Application
+Icon=velox
+Categories=System;Utility;Core;GTK;FileTools;FileManager;
+StartupNotify=true
+MimeType=inode/directory;
