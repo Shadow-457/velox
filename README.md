@@ -41,5 +41,4 @@ Then you can run `velox` from your terminal or application launcher!
 ## Customization 🎨
 The file manager's CSS styling and sorting methods are fully exposed in `src/main.c`. You can tweak the appearance or change the way directories and files are sorted very easily by editing the source code and typing `make`.
 
-## License
-MIT License.
+
