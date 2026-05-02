@@ -26,7 +26,7 @@ sudo pacman -S base-devel gtk3 glib2
 Simply run `make` in the root of the project to build the file manager!
 
 ```bash
-git clone https://github.com/yourusername/velox.git
+git clone https://github.com/Shadow-457/velox
 cd velox
 make
 ```
